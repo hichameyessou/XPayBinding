@@ -1,0 +1,2 @@
+C:\Users\Hichame\source\repos\NexiBinding\NexiBinding\obj\Debug\NexiBinding.csprojResolveAssemblyReference.cache
+C:\Users\Hichame\source\repos\NexiBinding\NexiBinding\obj\Debug\NexiBinding.csproj.CoreCompileInputs.cache

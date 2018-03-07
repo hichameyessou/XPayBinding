@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="it.icbpi.XPaySDK"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <activity android:name="it.icbpi.XPaySDK.ActivityFrontOfficeQP" >
+        </activity>
+        <activity android:name="it.icbpi.XPaySDK.ActivityFrontOfficeXP" >
+        </activity>
+        <activity android:name="it.icbpi.XPaySDK.Activity3DSecure" >
+        </activity>
+    </application>
+
+</manifest>

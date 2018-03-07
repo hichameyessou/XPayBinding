@@ -1,0 +1,8 @@
+it.icbpi.XPaySDK.Utils.EnvironmentUtils$Environment:IT.Icbpi.XPaySDK.Utils:EnvironmentUtils.Environment
+it.icbpi.XPaySDK.Utils.BackOffice.ReportOrdiniUtils$Channel:IT.Icbpi.XPaySDK.Utils.BackOffice:ReportOrdiniUtils.Channel
+it.icbpi.XPaySDK.Utils.BackOffice.ReportOrdiniUtils$Status:IT.Icbpi.XPaySDK.Utils.BackOffice:ReportOrdiniUtils.Status
+it.icbpi.XPaySDK.Utils.HostedPayments.ParcelUtils$HPCaller:IT.Icbpi.XPaySDK.Utils.HostedPayments:ParcelUtils.HPCaller
+it.icbpi.XPaySDK.Utils.HostedPayments.ParcelUtils$PrimiPagamentiCaller:IT.Icbpi.XPaySDK.Utils.HostedPayments:ParcelUtils.PrimiPagamentiCaller
+it.icbpi.XPaySDK.Utils.HostedPayments.ParcelUtils$RicorrenzeCaller:IT.Icbpi.XPaySDK.Utils.HostedPayments:ParcelUtils.RicorrenzeCaller
+it.icbpi.XPaySDK.Utils.Serializers.SerializerEnum:IT.Icbpi.XPaySDK.Utils.Serializers:SerializerEnum
+it.icbpi.XPaySDK.Utils.Varie.DCCGenericUtils$ExchangeRate:IT.Icbpi.XPaySDK.Utils.Varie:DCCGenericUtils.ExchangeRate

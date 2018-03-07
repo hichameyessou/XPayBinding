@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">XPayLibrary</string>
+    <string name="check_fields">Control data validity!</string>
+    <string name="error" translatable="false">Error:</string>
+    <string name="mmyy">MM/YY</string>
+</resources>
